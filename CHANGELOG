@@ -1,0 +1,8 @@
+# Changelog
+
+## [Unreleased]
+### Added
+- Mockito
+- Junit5
+- Kafka Connector
+- Java Swing GUI example
