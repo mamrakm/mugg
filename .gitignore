@@ -1,1 +1,8 @@
 **/
+!src
+!gradle
+!.gitignore
+!gradlew
+!gradle.properties
+!gradlew.bat
+!settings.gradle
